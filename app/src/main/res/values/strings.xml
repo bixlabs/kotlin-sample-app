@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Color Name</string>
+    <dimen name="color_picked_size">120dp</dimen>
+</resources>
